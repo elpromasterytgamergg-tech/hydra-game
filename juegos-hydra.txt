@@ -1,0 +1,6 @@
+[
+  {
+    "name": "Mi fuente",
+    "url": "https://TU-URL-AQUI/archivo.json"
+  }
+]
